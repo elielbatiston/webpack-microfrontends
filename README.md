@@ -13,3 +13,10 @@ npm install --save-dev babel-loader @babel/preset-env @babel/plugin-proposal-obj
 npm install --save-dev @babel/core
 npm install --save-dev html-loader
 npm install --save-dev raw-loader
+
+# 4_PLUGINS
+npm install --save-dev mini-css-extract-plugin
+npm install --save-dev terser-webpack-plugin
+npm install --save-dev dotenv-webpack
+npm install --save-dev html-webpack-plugin
+npm install --save-dev clean-webpack-plugin
