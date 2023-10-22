@@ -1,0 +1,24 @@
+{
+  "name": "5_mode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack serve --config webpack.dev.config.js",
+    "prod": "webpack --config webpack.production.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "terser-webpack-plugin": "^5.0.3",
+    "webpack-dev-server": "^3.11.1"
+  }
+}

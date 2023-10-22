@@ -20,3 +20,6 @@ npm install --save-dev terser-webpack-plugin
 npm install --save-dev dotenv-webpack
 npm install --save-dev html-webpack-plugin
 npm install --save-dev clean-webpack-plugin
+
+# 5_MODE 
+npm install --save-dev webpack-dev-server
