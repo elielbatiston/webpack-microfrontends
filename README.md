@@ -23,3 +23,23 @@ npm install --save-dev clean-webpack-plugin
 
 # 5_MODE 
 npm install --save-dev webpack-dev-server
+
+# 6_INTEGRACOES
+npm install --save-dev jquery
+npm install --save-dev url-loader
+npm install --save-dev @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons
+npm install bootstrap jquery @popperjs/core
+npm install --save-dev popper.js
+
+# 7_INTEGRACOES_BULMA
+npm install --save-dev bulma css-loader mini-css-extract-plugin node-sass sass-loader style-loader webpack webpack-cli
+
+# 8_INTEGRACOES_REACT
+npm install react react-dom webpack-dev-server html-webpack-plugin @babel/core @babel/plugin-proposal-class-properties @babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+
+# 9_INTEGRACOES_VUE
+npm install --save-dev vue vue-router @babel/preset-env autoprefixer babel-loader clean-webpack-plugin html-webpack-plugin mini-css-
+extract-plugin vue-loader vue-template-compiler webpack webpack-cli webpack-dev-server
+
+# 10_INTEGRACOES_TYPESCRIPT
+npm install --save-dev typescript ts-loader webpack webpack-cli
