@@ -47,3 +47,14 @@ npm install --save-dev typescript ts-loader webpack webpack-cli
 # 11_INTEGRACOES_EXPRESS
 npm install --save-dev express @types/express
 npm install --save-dev typescript ts-loader
+
+# 12_AVANCADO
+npm install --save-dev lodash
+
+Site para analisar a performance do meu projeto
+acesse = https://alexkuz.github.io/webpack-chart
+
+Execute o comando 
+npx webpack --profile --json=status
+
+Será criado o arquivo status no root do projeto. Abra o arquivo dentro do site
