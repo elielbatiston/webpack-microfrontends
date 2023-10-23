@@ -43,3 +43,7 @@ extract-plugin vue-loader vue-template-compiler webpack webpack-cli webpack-dev-
 
 # 10_INTEGRACOES_TYPESCRIPT
 npm install --save-dev typescript ts-loader webpack webpack-cli
+
+# 11_INTEGRACOES_EXPRESS
+npm install --save-dev express @types/express
+npm install --save-dev typescript ts-loader
