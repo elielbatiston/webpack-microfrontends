@@ -58,3 +58,7 @@ Execute o comando
 npx webpack --profile --json=status
 
 Será criado o arquivo status no root do projeto. Abra o arquivo dentro do site
+
+# 13_MICRO-FRONTEND
+
+npm install --save-dev @babel/core @babel/preset-react babel-loader bootstrap css-loader html-webpack-plugin react react-dom react-router react-router-dom reactstrap style-loader webpack webpack-cli webpack-dev-server
